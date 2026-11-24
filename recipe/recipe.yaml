@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.4.2"
+  version: "1.4.3"
 
 package:
   name: scatterd
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/scatterd/scatterd-${{ version }}.tar.gz
-  sha256: d168230f82f424434a1a343138dcb9479f2041732d48611c910e96a7a7d5705a
+  sha256: c956b708bd795a493726d5dbd4af640e7e61b6cc061cd6ab13c5afa91b0bc984
 
 build:
   number: 0
